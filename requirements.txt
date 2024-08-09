@@ -1,0 +1,11 @@
+clear_screen
+requests
+whois
+pywebcopy
+uuid
+phonenumbers
+geopy
+pystyle
+randon
+socket
+webbrowser
