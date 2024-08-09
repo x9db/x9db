@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @x9db
+- my server discord is discord.gg/wldb
+- my tools is OpenSources
