@@ -5,6 +5,6 @@
 
 #  /!\ Important /!\
 
-Je ne suis pas tenu responsable des dégats causé a la personne que vous visez avec cet outils
+Je ne suis pas tenu responsable des dégats causé à la personne que vous visez avec cet outils
 
 
