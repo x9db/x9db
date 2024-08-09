@@ -38,9 +38,9 @@ menu = """
         ║   [5] > IP pinger                             ║ ║   [15] > Gen Nitro                            ║
         ║   [6] > PC Info                               ║ ║   [16] > Temp Mail (website)                  ║
         ║   [7] > Discord token info                    ║ ║   [17] > Soon                                 ║ 
-        ║   [8] > Username Tracker                      ║ ║   [17] > Soon                                 ║
-        ║   [9] > Linkvertise Bypasser                  ║ ║   [18] > Soon                                 ║                         
-        ║   [10]> Discord server info                   ║ ║   [19] > Discord du créateur                  ║
+        ║   [8] > Username Tracker                      ║ ║   [18] > Soon                                 ║
+        ║   [9] > Linkvertise Bypasser                  ║ ║   [19] > Soon                                 ║                         
+        ║   [10]> Discord server info                   ║ ║   [20] > Discord du créateur                  ║
         ╚═══════════════════════════════════════════════╝ ╚═══════════════════════════════════════════════╝      
 """
 print(menu)
@@ -78,7 +78,7 @@ def execute_script(choice):
         os.system('python ./modules/accountdisabler.py')
     elif choice == 15:
         os.system('python ./modules/nitro.py')
-    elif choice == 19:
+    elif choice == 20:
         os.system('python ./modules/my_discord.py')
     elif choice == 16:
         os.system('python ./modules/temp_mail.py')
